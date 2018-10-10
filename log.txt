@@ -1,0 +1,5 @@
+https://github.com/StephenGrider/ReduxSimpleStarter.git
+
+instructions:
+-------------
+clone this repository
